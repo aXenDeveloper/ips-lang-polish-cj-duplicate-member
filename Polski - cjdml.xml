@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski" rtl="0">
+ <app key="cjdml" version="20005">
+  <word key="__app_cjdml" js="0">CJ Duplicate Member Logger</word>
+  <word key="menu__cjdml_acp" js="0">CJ Duplicate Member Logger</word>
+  <word key="menu__cjdml_acp_settings" js="0">Ustawienia</word>
+  <word key="cjdml_settings_do" js="0">Akcja automatyczna?</word>
+  <word key="cjdml_settings_do_desc" js="0">Wyłączony, nie robi nic automatycznie (nadal rejestruje oszustwa). Ban, bany za zduplikowane konto (i konto główne, jeśli jest włączone). Wyślij PW, wysyła PW na główne konto z informacją, że został złapany, wiadomość może być dostosowana, więc możesz ją dowolnie dostosować.</word>
+  <word key="cjdml_action_disabled" js="0">Wyłączone</word>
+  <word key="cjdml_action_ban" js="0">Ban</word>
+  <word key="cjdml_action_pm" js="0">Wyślij PW</word>
+  <word key="cjdml_settings_pm_from" js="0">Od użytkownika</word>
+  <word key="cjdml_settings_pm_from_desc" js="0">Wybierz użytkownika, który ma wysyłać wiadomość</word>
+  <word key="cjdml_settings_ban_parent" js="0">Banować główne konto?</word>
+  <word key="cjdml_settings_ban_parent_desc" js="0">Automatycznie zablokować także głównego użytkownika? Jeśli nie, wysyła PW z powiadomieniem o zbanowaniu drugiego konta.</word>
+  <word key="cjdml_settings_pm_title" js="0">Tytuł PW</word>
+  <word key="cjdml_settings_pm_title_desc" js="0">użyj {main} dla nazwy głównego konta, {alt} dla alternatywnej nazwy konta</word>
+  <word key="cjdml_settings_pm_body" js="0">Treść PW</word>
+  <word key="cjdml_settings_pm_body_desc" js="0">użyj {main} dla nazwy głównego konta, {alt} dla nazwy drugiego konta</word>
+  <word key="cjdml_settings_excluded_groups" js="0">Wykluczone grupy</word>
+  <word key="cjdml_settings_excluded_groups_desc" js="0">Które grupy mają nie zapisywać logów? Goście są domyślnie zawsze ignorowani.</word>
+  <word key="member__cjdml_member" js="0">CJ Duplicate Member Logger</word>
+  <word key="cjdml_exclude" js="0">Wyklucz tego użytkownika</word>
+  <word key="cjdml_exclude_note" js="0">Wyklucz notatkę</word>
+  <word key="cjdml_exclude_note_desc" js="0">Powód, dla którego ten użytkownik jest wykluczony?</word>
+  <word key="cjdml_exclude_desc" js="0">Wykluczyć tego użytkownika z podwójnej kontroli?</word>
+  <word key="cjdml_ban_hammer" js="0">Ban</word>
+  <word key="cjdml_pm_alts" js="0">PW wszyscy</word>
+  <word key="cjdml_ban_parent" js="0">Główny ban</word>
+  <word key="cjdml_last_login" js="0">Ostatni login:</word>
+  <word key="cjdml_dupes" js="0">Duplikaty</word>
+  <word key="cjdml_confirm" js="0">Potwierdź</word>
+  <word key="cjdml_confirm_desc" js="0">Włącz, aby potwierdzić zablokowanie multikont</word>
+  <word key="cjdml_ban_title" js="0">Zbanuj multikonta</word>
+  <word key="cjdml_ban_parent_title" js="0">Zbanuj głównego konto</word>
+  <word key="cjdml_confirm_parent" js="0">Potwierdź</word>
+  <word key="cjdml_confirm_parent_desc" js="0">Zbanować głównego konto?</word>
+  <word key="cjdml_confirm_delete" js="0">Potwierdź</word>
+  <word key="cjdml_confirm_delete_desc" js="0">Spowoduje to usunięcie użytkowników i usunięcie wszystkich utworzonych przez nich treści oraz zostaną ustawione jako stworzone przez gościa.</word>
+  <word key="cjdml_confirm_delet_sidebar" js="0"><![CDATA[<span style='color:red;font-size:20px;'>Ten proces jest nieodwracalny. Spowoduje to usunięcie multikont z IPS i zmianę autorów zawartości na gość.</span>]]></word>
+  <word key="cjdml_delete_children" js="0">Usuń multikonta</word>
+  <word key="cjdml_member" js="0">Od użytkownika</word>
+  <word key="cjdml_title" js="0">Temat</word>
+  <word key="cjdml_message" js="0">Treść PW</word>
+  <word key="menu__cjdml_acp_duplicates" js="0">Logi multikont</word>
+  <word key="modcp_cjdml" js="0">CJ Duplicate Member Logger</word>
+  <word key="cjdml_show_alts" js="0">Pokaż multikonta</word>
+  <word key="cjdml_show_alts_title" js="0">Multikonta</word>
+  <word key="cjdml_members_mid" js="0">Użytkownik</word>
+  <word key="cjdml_members_last" js="0">Ostatnie logowanie</word>
+  <word key="cjdml_members_parent" js="0">Status</word>
+  <word key="cjdml_members_status_active" js="0">Aktywne</word>
+  <word key="cjdml_members_status_inactive" js="0">Zbanowany</word>
+  <word key="cjdml" js="0">Duplicate Logger</word>
+  <word key="can_manage_duplicate_logger" js="0">Zarządzaj Duplicate Logger</word>
+  <word key="modperms__cjdml_member" js="0">CJ Duplicate Member Logger</word>
+  <word key="cjdml_delete_main" js="0">Usuń rekord</word>
+  <word key="cjdml_delete_main_pop" js="0">Usuń rekord z bazy danych</word>
+  <word key="cjdml_confirm_delete_main" js="0">Potwierdź</word>
+  <word key="cjdml_confirm_delete_main_desc" js="0">Usuwa ten rekord. (nie usuwa użytkownika, będziesz musiał to zrobić w sekcji Użytkownicy w swoim panelu ACP)</word>
+  <word key="cjdml_front_actions" js="0">Akcje</word>
+  <word key="cjdml_delete_alt" js="0">Usuń rekord z CJ Duplicate Member Logger</word>
+  <word key="can_cjdml_delete_records" js="0">Może usuwać rekordy</word>
+  <word key="can_cjdml_delete_records_desc" js="0">pozwól grupie/użytkownikowi usuwać rekordy.</word>
+  <word key="cjdml_delete_alt_record" js="0">Usuń rekord</word>
+  <word key="can_cjdml_ban_main" js="0">Może banować konta</word>
+  <word key="can_cjdml_delete_account" js="0">Może usuwać konta</word>
+  <word key="cjdml_clear_guest" js="0">Przetwarzanie %s z %s</word>
+  <word key="cjdml_cleared_guest" js="0">Gość wyczyszczony</word>
+  <word key="cjdml_clear_guest_button" js="0">Prune Non Members</word>
+  <word key="cjdml_pm_alts_title" js="0">PW do multikont</word>
+  <word key="cjdml_pm_alts_subject" js="0">Wykryto multikonto</word>
+  <word key="cjdlm_settings_default_pm_message_send" js="0">Domyślna wiadomość PW</word>
+  <word key="cjdlm_settings_default_pm_message_send_desc" js="0">domyślna wiadomość dla opcji 'wyślij wszystkim'. Użyj {main} dla nazwy głównego konta, {alt} dla nazwy starego konta</word>
+  <word key="cjdml_new_duplicate" js="0">Wykryto nowe multikonto</word>
+  <word key="notifications__cjdml_cjdml" js="0">Duplicate Member Logger</word>
+  <word key="notifications__cjdml_new_dupe" js="0">Nowe multikonta w ModCP</word>
+  <word key="mailsub__cjdml_notification_cjdml_new_dupe" js="0">Nowe multikonto</word>
+  <word key="cjdml_duplicate" js="0">Duplikat</word>
+  <word key="cjdml_new_dupe_email" js="0">Wykryto nowe multikonto!</word>
+  <word key="cjdml_new_dupe_email_title" js="0">Wykryto nowe multikonto!</word>
+  <word key="cjdml_delete_alt_record_js" js="1">Usuwać multikonta? Spowoduje to usunięcie konta użytkownika i pozostawi przypisaną treść do &quot;gościa&quot;</word>
+  <word key="cjdml_delete_alt_js" js="1">Spowoduje to usunięcie konta z CJ Duplicate Member Logger, nie spowoduje to usunięcia użytkownika z IPS.</word>
+  <word key="cjdml_ban_js" js="1">Użycie tej akcji spowoduje zablokowanie konta z dostępem do strony.</word>
+ </app>
+</language>
